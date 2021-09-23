@@ -14,7 +14,9 @@ echo $pur"["$cy"2"$pur"]"$cy" FACEBOOK LOGIN"
 echo $pur"["$cy"3"$pur"]"$cy" MOBILE LEGENDS"
 echo $pur"____________________________________"
 echo $pur"╭─["$pur"root@r12n"$pur"]"
-read -p"╰─>> " pil if [ $pil = 1 ]thenecho
+read -p"╰─>> " pil 
+
+if [ $pil = 1 ]thenecho
 $cy"____________________________________"
 echo $cy" BERIKUT ADALAH HASIL PHISING FACEBOOK SECURE"
 cd V1
@@ -23,7 +25,8 @@ echo
 fi 
 
 if [ $pil = 2 ]
-thenecho 
+then
+echo 
 $cy"____________________________________"
 echo $cy" BERIKUT ADALAH HASIL PHISING FACEBOOK LOGIN"
 echo
