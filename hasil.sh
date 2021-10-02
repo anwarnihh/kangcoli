@@ -6,7 +6,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-toilet -f future "PIPHISH RESULTS"
+toilet -f future "RESULTS"
 echo $cy" HASIL MANA YANG INGIN KAMU LIHAT?"
 echo $pur"____________________________________"
 echo $pur"["$cy"1"$pur"]"$cy" FACEBOOK SECURE"
