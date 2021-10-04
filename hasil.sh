@@ -18,8 +18,7 @@ read -p"╰─>> " pil
 
 if [ $pil = 1 ]
 then
-echo
-$cy"____________________________________"
+echo$cy"____________________________________"
 echo $cy" BERIKUT ADALAH HASIL PHISING FACEBOOK SECURE"
 cd V1
 php hasil.txt
@@ -28,8 +27,7 @@ fi
 
 if [ $pil = 2 ]
 then
-echo 
-$cy"____________________________________"
+echo $cy"____________________________________"
 echo $cy" BERIKUT ADALAH HASIL PHISING FACEBOOK LOGIN"
 echo
 echo
