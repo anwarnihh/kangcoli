@@ -6,7 +6,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah 
 pu='\033[37;1m' #putih 
 ku='\033[33;1m' #kuning
-echo $i" Welcome to PIPHISH Listener"
+echo $i" Welcome to my channel"
 echo $cy" PILIH LINK PHISING YANG SESUAI"
 echo $cy" JIKA LOG BERJALAN,BERARTI KORBAN SUDAH MASUK LINK"
 echo $cy" BUKA TAB BARU, JALANKAN"$pur" hasil.sh" $cy"untuk melihat hasilnya"
